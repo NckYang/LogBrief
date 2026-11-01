@@ -1,0 +1,342 @@
+2026-10-31 09:00:00 INFO Python=3.14 device=cpu
+2026-10-31 09:00:01 INFO Loading training configuration
+INFO Step 1/300 preprocessing samples
+INFO Step 2/300 preprocessing samples
+INFO Step 3/300 preprocessing samples
+INFO Step 4/300 preprocessing samples
+INFO Step 5/300 preprocessing samples
+INFO Step 6/300 preprocessing samples
+INFO Step 7/300 preprocessing samples
+INFO Step 8/300 preprocessing samples
+INFO Step 9/300 preprocessing samples
+INFO Step 10/300 preprocessing samples
+WARNING Dataset cache is unavailable; using source files
+INFO Step 11/300 preprocessing samples
+INFO Step 12/300 preprocessing samples
+INFO Step 13/300 preprocessing samples
+INFO Step 14/300 preprocessing samples
+INFO Step 15/300 preprocessing samples
+INFO Step 16/300 preprocessing samples
+INFO Step 17/300 preprocessing samples
+INFO Step 18/300 preprocessing samples
+INFO Step 19/300 preprocessing samples
+INFO Step 20/300 preprocessing samples
+WARNING Dataset cache is unavailable; using source files
+INFO Step 21/300 preprocessing samples
+INFO Step 22/300 preprocessing samples
+INFO Step 23/300 preprocessing samples
+INFO Step 24/300 preprocessing samples
+INFO Step 25/300 preprocessing samples
+INFO Step 26/300 preprocessing samples
+INFO Step 27/300 preprocessing samples
+INFO Step 28/300 preprocessing samples
+INFO Step 29/300 preprocessing samples
+INFO Step 30/300 preprocessing samples
+WARNING Dataset cache is unavailable; using source files
+INFO Step 31/300 preprocessing samples
+INFO Step 32/300 preprocessing samples
+INFO Step 33/300 preprocessing samples
+INFO Step 34/300 preprocessing samples
+INFO Step 35/300 preprocessing samples
+INFO Step 36/300 preprocessing samples
+INFO Step 37/300 preprocessing samples
+INFO Step 38/300 preprocessing samples
+INFO Step 39/300 preprocessing samples
+INFO Step 40/300 preprocessing samples
+WARNING Dataset cache is unavailable; using source files
+INFO Step 41/300 preprocessing samples
+INFO Step 42/300 preprocessing samples
+INFO Step 43/300 preprocessing samples
+INFO Step 44/300 preprocessing samples
+INFO Step 45/300 preprocessing samples
+INFO Step 46/300 preprocessing samples
+INFO Step 47/300 preprocessing samples
+INFO Step 48/300 preprocessing samples
+INFO Step 49/300 preprocessing samples
+INFO Step 50/300 preprocessing samples
+WARNING Dataset cache is unavailable; using source files
+INFO Step 51/300 preprocessing samples
+INFO Step 52/300 preprocessing samples
+INFO Step 53/300 preprocessing samples
+INFO Step 54/300 preprocessing samples
+INFO Step 55/300 preprocessing samples
+INFO Step 56/300 preprocessing samples
+INFO Step 57/300 preprocessing samples
+INFO Step 58/300 preprocessing samples
+INFO Step 59/300 preprocessing samples
+INFO Step 60/300 preprocessing samples
+WARNING Dataset cache is unavailable; using source files
+INFO Step 61/300 preprocessing samples
+INFO Step 62/300 preprocessing samples
+INFO Step 63/300 preprocessing samples
+INFO Step 64/300 preprocessing samples
+INFO Step 65/300 preprocessing samples
+INFO Step 66/300 preprocessing samples
+INFO Step 67/300 preprocessing samples
+INFO Step 68/300 preprocessing samples
+INFO Step 69/300 preprocessing samples
+INFO Step 70/300 preprocessing samples
+WARNING Dataset cache is unavailable; using source files
+INFO Step 71/300 preprocessing samples
+INFO Step 72/300 preprocessing samples
+INFO Step 73/300 preprocessing samples
+INFO Step 74/300 preprocessing samples
+INFO Step 75/300 preprocessing samples
+INFO Step 76/300 preprocessing samples
+INFO Step 77/300 preprocessing samples
+INFO Step 78/300 preprocessing samples
+INFO Step 79/300 preprocessing samples
+INFO Step 80/300 preprocessing samples
+WARNING Dataset cache is unavailable; using source files
+INFO Step 81/300 preprocessing samples
+INFO Step 82/300 preprocessing samples
+INFO Step 83/300 preprocessing samples
+INFO Step 84/300 preprocessing samples
+INFO Step 85/300 preprocessing samples
+INFO Step 86/300 preprocessing samples
+INFO Step 87/300 preprocessing samples
+INFO Step 88/300 preprocessing samples
+INFO Step 89/300 preprocessing samples
+INFO Step 90/300 preprocessing samples
+WARNING Dataset cache is unavailable; using source files
+INFO Step 91/300 preprocessing samples
+INFO Step 92/300 preprocessing samples
+INFO Step 93/300 preprocessing samples
+INFO Step 94/300 preprocessing samples
+INFO Step 95/300 preprocessing samples
+INFO Step 96/300 preprocessing samples
+INFO Step 97/300 preprocessing samples
+INFO Step 98/300 preprocessing samples
+INFO Step 99/300 preprocessing samples
+INFO Step 100/300 preprocessing samples
+WARNING Dataset cache is unavailable; using source files
+INFO Step 101/300 preprocessing samples
+INFO Step 102/300 preprocessing samples
+INFO Step 103/300 preprocessing samples
+INFO Step 104/300 preprocessing samples
+INFO Step 105/300 preprocessing samples
+INFO Step 106/300 preprocessing samples
+INFO Step 107/300 preprocessing samples
+INFO Step 108/300 preprocessing samples
+INFO Step 109/300 preprocessing samples
+INFO Step 110/300 preprocessing samples
+WARNING Dataset cache is unavailable; using source files
+INFO Step 111/300 preprocessing samples
+INFO Step 112/300 preprocessing samples
+INFO Step 113/300 preprocessing samples
+INFO Step 114/300 preprocessing samples
+INFO Step 115/300 preprocessing samples
+INFO Step 116/300 preprocessing samples
+INFO Step 117/300 preprocessing samples
+INFO Step 118/300 preprocessing samples
+INFO Step 119/300 preprocessing samples
+INFO Step 120/300 preprocessing samples
+WARNING Dataset cache is unavailable; using source files
+INFO Step 121/300 preprocessing samples
+INFO Step 122/300 preprocessing samples
+INFO Step 123/300 preprocessing samples
+INFO Step 124/300 preprocessing samples
+INFO Step 125/300 preprocessing samples
+INFO Step 126/300 preprocessing samples
+INFO Step 127/300 preprocessing samples
+INFO Step 128/300 preprocessing samples
+INFO Step 129/300 preprocessing samples
+INFO Step 130/300 preprocessing samples
+WARNING Dataset cache is unavailable; using source files
+INFO Step 131/300 preprocessing samples
+INFO Step 132/300 preprocessing samples
+INFO Step 133/300 preprocessing samples
+INFO Step 134/300 preprocessing samples
+INFO Step 135/300 preprocessing samples
+INFO Step 136/300 preprocessing samples
+INFO Step 137/300 preprocessing samples
+INFO Step 138/300 preprocessing samples
+INFO Step 139/300 preprocessing samples
+INFO Step 140/300 preprocessing samples
+WARNING Dataset cache is unavailable; using source files
+INFO Step 141/300 preprocessing samples
+INFO Step 142/300 preprocessing samples
+INFO Step 143/300 preprocessing samples
+INFO Step 144/300 preprocessing samples
+INFO Step 145/300 preprocessing samples
+INFO Step 146/300 preprocessing samples
+INFO Step 147/300 preprocessing samples
+INFO Step 148/300 preprocessing samples
+INFO Step 149/300 preprocessing samples
+INFO Step 150/300 preprocessing samples
+WARNING Dataset cache is unavailable; using source files
+INFO Step 151/300 preprocessing samples
+INFO Step 152/300 preprocessing samples
+INFO Step 153/300 preprocessing samples
+INFO Step 154/300 preprocessing samples
+INFO Step 155/300 preprocessing samples
+INFO Step 156/300 preprocessing samples
+INFO Step 157/300 preprocessing samples
+INFO Step 158/300 preprocessing samples
+INFO Step 159/300 preprocessing samples
+INFO Step 160/300 preprocessing samples
+WARNING Dataset cache is unavailable; using source files
+INFO Step 161/300 preprocessing samples
+INFO Step 162/300 preprocessing samples
+INFO Step 163/300 preprocessing samples
+INFO Step 164/300 preprocessing samples
+INFO Step 165/300 preprocessing samples
+INFO Step 166/300 preprocessing samples
+INFO Step 167/300 preprocessing samples
+INFO Step 168/300 preprocessing samples
+INFO Step 169/300 preprocessing samples
+INFO Step 170/300 preprocessing samples
+WARNING Dataset cache is unavailable; using source files
+INFO Step 171/300 preprocessing samples
+INFO Step 172/300 preprocessing samples
+INFO Step 173/300 preprocessing samples
+INFO Step 174/300 preprocessing samples
+INFO Step 175/300 preprocessing samples
+INFO Step 176/300 preprocessing samples
+INFO Step 177/300 preprocessing samples
+INFO Step 178/300 preprocessing samples
+INFO Step 179/300 preprocessing samples
+INFO Step 180/300 preprocessing samples
+WARNING Dataset cache is unavailable; using source files
+INFO Step 181/300 preprocessing samples
+INFO Step 182/300 preprocessing samples
+INFO Step 183/300 preprocessing samples
+INFO Step 184/300 preprocessing samples
+INFO Step 185/300 preprocessing samples
+INFO Step 186/300 preprocessing samples
+INFO Step 187/300 preprocessing samples
+INFO Step 188/300 preprocessing samples
+INFO Step 189/300 preprocessing samples
+INFO Step 190/300 preprocessing samples
+WARNING Dataset cache is unavailable; using source files
+INFO Step 191/300 preprocessing samples
+INFO Step 192/300 preprocessing samples
+INFO Step 193/300 preprocessing samples
+INFO Step 194/300 preprocessing samples
+INFO Step 195/300 preprocessing samples
+INFO Step 196/300 preprocessing samples
+INFO Step 197/300 preprocessing samples
+INFO Step 198/300 preprocessing samples
+INFO Step 199/300 preprocessing samples
+INFO Step 200/300 preprocessing samples
+WARNING Dataset cache is unavailable; using source files
+INFO Step 201/300 preprocessing samples
+INFO Step 202/300 preprocessing samples
+INFO Step 203/300 preprocessing samples
+INFO Step 204/300 preprocessing samples
+INFO Step 205/300 preprocessing samples
+INFO Step 206/300 preprocessing samples
+INFO Step 207/300 preprocessing samples
+INFO Step 208/300 preprocessing samples
+INFO Step 209/300 preprocessing samples
+INFO Step 210/300 preprocessing samples
+WARNING Dataset cache is unavailable; using source files
+INFO Step 211/300 preprocessing samples
+INFO Step 212/300 preprocessing samples
+INFO Step 213/300 preprocessing samples
+INFO Step 214/300 preprocessing samples
+INFO Step 215/300 preprocessing samples
+INFO Step 216/300 preprocessing samples
+INFO Step 217/300 preprocessing samples
+INFO Step 218/300 preprocessing samples
+INFO Step 219/300 preprocessing samples
+INFO Step 220/300 preprocessing samples
+WARNING Dataset cache is unavailable; using source files
+INFO Step 221/300 preprocessing samples
+INFO Step 222/300 preprocessing samples
+INFO Step 223/300 preprocessing samples
+INFO Step 224/300 preprocessing samples
+INFO Step 225/300 preprocessing samples
+INFO Step 226/300 preprocessing samples
+INFO Step 227/300 preprocessing samples
+INFO Step 228/300 preprocessing samples
+INFO Step 229/300 preprocessing samples
+INFO Step 230/300 preprocessing samples
+WARNING Dataset cache is unavailable; using source files
+INFO Step 231/300 preprocessing samples
+INFO Step 232/300 preprocessing samples
+INFO Step 233/300 preprocessing samples
+INFO Step 234/300 preprocessing samples
+INFO Step 235/300 preprocessing samples
+INFO Step 236/300 preprocessing samples
+INFO Step 237/300 preprocessing samples
+INFO Step 238/300 preprocessing samples
+INFO Step 239/300 preprocessing samples
+INFO Step 240/300 preprocessing samples
+WARNING Dataset cache is unavailable; using source files
+INFO Step 241/300 preprocessing samples
+INFO Step 242/300 preprocessing samples
+INFO Step 243/300 preprocessing samples
+INFO Step 244/300 preprocessing samples
+INFO Step 245/300 preprocessing samples
+INFO Step 246/300 preprocessing samples
+INFO Step 247/300 preprocessing samples
+INFO Step 248/300 preprocessing samples
+INFO Step 249/300 preprocessing samples
+INFO Step 250/300 preprocessing samples
+WARNING Dataset cache is unavailable; using source files
+INFO Step 251/300 preprocessing samples
+INFO Step 252/300 preprocessing samples
+INFO Step 253/300 preprocessing samples
+INFO Step 254/300 preprocessing samples
+INFO Step 255/300 preprocessing samples
+INFO Step 256/300 preprocessing samples
+INFO Step 257/300 preprocessing samples
+INFO Step 258/300 preprocessing samples
+INFO Step 259/300 preprocessing samples
+INFO Step 260/300 preprocessing samples
+WARNING Dataset cache is unavailable; using source files
+INFO Step 261/300 preprocessing samples
+INFO Step 262/300 preprocessing samples
+INFO Step 263/300 preprocessing samples
+INFO Step 264/300 preprocessing samples
+INFO Step 265/300 preprocessing samples
+INFO Step 266/300 preprocessing samples
+INFO Step 267/300 preprocessing samples
+INFO Step 268/300 preprocessing samples
+INFO Step 269/300 preprocessing samples
+INFO Step 270/300 preprocessing samples
+WARNING Dataset cache is unavailable; using source files
+INFO Step 271/300 preprocessing samples
+INFO Step 272/300 preprocessing samples
+INFO Step 273/300 preprocessing samples
+INFO Step 274/300 preprocessing samples
+INFO Step 275/300 preprocessing samples
+INFO Step 276/300 preprocessing samples
+INFO Step 277/300 preprocessing samples
+INFO Step 278/300 preprocessing samples
+INFO Step 279/300 preprocessing samples
+INFO Step 280/300 preprocessing samples
+WARNING Dataset cache is unavailable; using source files
+INFO Step 281/300 preprocessing samples
+INFO Step 282/300 preprocessing samples
+INFO Step 283/300 preprocessing samples
+INFO Step 284/300 preprocessing samples
+INFO Step 285/300 preprocessing samples
+INFO Step 286/300 preprocessing samples
+INFO Step 287/300 preprocessing samples
+INFO Step 288/300 preprocessing samples
+INFO Step 289/300 preprocessing samples
+INFO Step 290/300 preprocessing samples
+WARNING Dataset cache is unavailable; using source files
+INFO Step 291/300 preprocessing samples
+INFO Step 292/300 preprocessing samples
+INFO Step 293/300 preprocessing samples
+INFO Step 294/300 preprocessing samples
+INFO Step 295/300 preprocessing samples
+INFO Step 296/300 preprocessing samples
+INFO Step 297/300 preprocessing samples
+INFO Step 298/300 preprocessing samples
+INFO Step 299/300 preprocessing samples
+INFO Step 300/300 preprocessing samples
+WARNING Dataset cache is unavailable; using source files
+INFO Opening data/train.csv
+INFO Available columns: feature_1, feature_2, target
+ERROR Requested label column 'label' does not exist
+Traceback (most recent call last):
+  File "train.py", line 42, in <module>
+    train(config)
+  File "train.py", line 18, in train
+    labels = frame["label"]
+KeyError: 'label'
+INFO Training aborted; no model checkpoint was written

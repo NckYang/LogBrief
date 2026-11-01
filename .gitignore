@@ -1,0 +1,25 @@
+# Publish compression code, MCP examples, README and recorded Gemini evidence.
+/*
+!/.gitignore
+!/README.md
+!/GEMINI_DIAGNOSIS.md
+!/pyproject.toml
+!/logbrief/
+!/examples/
+!/.codex/
+
+/.codex/*
+!/.codex/config.toml
+
+/logbrief/*
+!/logbrief/__init__.py
+!/logbrief/__main__.py
+!/logbrief/cli.py
+!/logbrief/compressor.py
+!/logbrief/prompts.py
+!/logbrief/tokens.py
+!/logbrief/mcp_server.py
+
+/examples/*
+!/examples/training.log
+!/examples/compression_demo.py
