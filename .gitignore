@@ -3,10 +3,25 @@
 !/.gitignore
 !/README.md
 !/GEMINI_DIAGNOSIS.md
+!/AI_COLLABORATION.md
 !/pyproject.toml
 !/logbrief/
 !/examples/
 !/.codex/
+!/reports/
+
+# Report sources and only the evidence cited by the report.
+/reports/*
+!/reports/README.md
+!/reports/LogBrief_HW2_Report.md
+!/reports/export_report.py
+!/reports/requirements-report.txt
+!/reports/evidence/
+/reports/evidence/*
+!/reports/evidence/README.md
+!/reports/evidence/current_demo_report.json
+!/reports/evidence/selection_ablation.json
+!/reports/evidence/unit-tests.txt
 
 /.codex/*
 !/.codex/config.toml

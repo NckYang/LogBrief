@@ -56,6 +56,10 @@ python -m logbrief.mcp_server
 
 模型指出程式要求 `label`，但可見欄位為 `feature_1`、`feature_2`、`target`，並引用行號提出修復方向。這是單一合成案例的歷史實測，沒有真的執行修復，也不能代表一般診斷準確率。
 
+## AI 協作紀錄
+
+[AI_COLLABORATION.md](AI_COLLABORATION.md) 整理需求、AI 分工、開發迭代、驗證結果與最終交付決策，並區分歷史實驗及目前版本。
+
 ## 工具與範圍
 
 MCP 提供 `compress_log`，輸入 `log_path` 或 `log_text`（擇一），可指定 `token_budget`、`context_lines`、`question`、`encoding`。回傳壓縮證據、統計及 traceback 範圍。
@@ -63,3 +67,7 @@ MCP 提供 `compress_log`，輸入 `log_path` 或 `log_text`（擇一），可�
 檔案限 repo 工作目錄內 UTF-8 的 `.log`／`.txt`，MCP 輸入最多 1,000,000 bytes。預設預算為 4000、前後文為 3、encoding 為 `cl100k_base`。
 token 預算包含準備的系統指示、問題、日誌證據與 32 預留量；它是本機 tokenizer 的計數，不包含 agent 其他對話，也不保證等於 agent 模型實際用量。
 主要支援 Python 純文字日誌；短日誌不保證縮短，選取規則也不能保證保留所有根因線索。程式不會執行修復。
+
+## 報告與驗證證據
+
+[完整報告](reports/LogBrief_HW2_Report.md) 說明目的、AI 協作、工程實作與結果。[證據索引](reports/evidence/README.md) 區分目前示範快照與歷史紀錄，並說明重現方式及限制。

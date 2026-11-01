@@ -1,0 +1,49 @@
+[
+  {
+    "case": "distant_configuration",
+    "important_refs": [
+      "L61",
+      "L62"
+    ],
+    "fixed_priority_visible": [
+      "L61",
+      "L62"
+    ],
+    "improved_visible": [
+      "L61",
+      "L62"
+    ]
+  },
+  {
+    "case": "metric_instability",
+    "important_refs": [
+      "L80",
+      "L81",
+      "L82"
+    ],
+    "fixed_priority_visible": [],
+    "improved_visible": [
+      "L80",
+      "L81",
+      "L82"
+    ]
+  },
+  {
+    "case": "multiple_failures",
+    "important_refs": [
+      "L61",
+      "L123",
+      "L185"
+    ],
+    "fixed_priority_visible": [
+      "L61",
+      "L123",
+      "L185"
+    ],
+    "improved_visible": [
+      "L61",
+      "L123",
+      "L185"
+    ]
+  }
+]

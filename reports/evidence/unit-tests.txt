@@ -1,0 +1,52 @@
+test_compress_json_and_dry_run_end_to_end (test_cli.CLITests.test_compress_json_and_dry_run_end_to_end) ... ok
+test_input_is_never_overwritten (test_cli.CLITests.test_input_is_never_overwritten) ... ok
+test_missing_model_keeps_prepared_evidence_report (test_cli.CLITests.test_missing_model_keeps_prepared_evidence_report) ... ok
+test_tiny_budget_returns_nonzero_without_truncation (test_cli.CLITests.test_tiny_budget_returns_nonzero_without_truncation) ... ok
+test_actual_exception_rendering (test_compressor.CompressionTests.test_actual_exception_rendering) ... ok
+test_all_separate_tracebacks_protected (test_compressor.CompressionTests.test_all_separate_tracebacks_protected) ... ok
+test_budget_and_protected_evidence_properties (test_compressor.CompressionTests.test_budget_and_protected_evidence_properties) ... ok
+test_budget_counts_instructions_question_and_reserve (test_compressor.CompressionTests.test_budget_counts_instructions_question_and_reserve) ... ok
+test_chained_tracebacks_and_exception_notes (test_compressor.CompressionTests.test_chained_tracebacks_and_exception_notes) ... ok
+test_chinese_ansi_and_special_token_strings (test_compressor.CompressionTests.test_chinese_ansi_and_special_token_strings) ... ok
+test_crlf_and_carriage_return_redraw_line_numbers (test_compressor.CompressionTests.test_crlf_and_carriage_return_redraw_line_numbers) ... ok
+test_exception_group_and_multiline_messages (test_compressor.CompressionTests.test_exception_group_and_multiline_messages) ... ok
+test_first_error_and_surrounding_records_survive_noise (test_compressor.CompressionTests.test_first_error_and_surrounding_records_survive_noise) ... ok
+test_full_traceback_is_indivisible (test_compressor.CompressionTests.test_full_traceback_is_indivisible) ... ok
+test_no_error_empty_and_invalid_arguments (test_compressor.CompressionTests.test_no_error_empty_and_invalid_arguments) ... ok
+test_prefixed_traceback_keeps_original_text (test_compressor.CompressionTests.test_prefixed_traceback_keeps_original_text) ... ok
+test_progress_counters_collapse_but_metric_values_do_not (test_compressor.CompressionTests.test_progress_counters_collapse_but_metric_values_do_not) ... ok
+test_progress_does_not_merge_distinct_input_paths (test_compressor.CompressionTests.test_progress_does_not_merge_distinct_input_paths) ... ok
+test_timestamped_warning_counts_and_exact_references (test_compressor.CompressionTests.test_timestamped_warning_counts_and_exact_references) ... ok
+test_tqdm_progress_bar_counters_and_time_collapse (test_compressor.CompressionTests.test_tqdm_progress_bar_counters_and_time_collapse) ... ok
+test_warning_numbers_are_not_erased (test_compressor.CompressionTests.test_warning_numbers_are_not_erased) ... ok
+test_warning_summary_count_includes_exact_context (test_compressor.CompressionTests.test_warning_summary_count_includes_exact_context) ... ok
+test_counts_exact_generation_body_and_uses_header_key (test_gemini.GeminiTests.test_counts_exact_generation_body_and_uses_header_key) ... ok
+test_invalid_count_never_generates (test_gemini.GeminiTests.test_invalid_count_never_generates) ... ok
+test_native_can_fit_when_local_tokenizer_rejects (test_gemini.GeminiTests.test_native_can_fit_when_local_tokenizer_rejects) ... ok
+test_native_mandatory_overflow_and_failure_are_not_silenced (test_gemini.GeminiTests.test_native_mandatory_overflow_and_failure_are_not_silenced) ... ok
+test_native_tail_is_a_verified_suffix_and_full_is_unrestricted (test_gemini.GeminiTests.test_native_tail_is_a_verified_suffix_and_full_is_unrestricted) ... ok
+test_over_budget_never_generates (test_gemini.GeminiTests.test_over_budget_never_generates) ... ok
+test_public_logs_are_pinned_and_do_not_include_issue_solutions (test_gemini.GeminiTests.test_public_logs_are_pinned_and_do_not_include_issue_solutions) ... ok
+test_reselection_preserves_protected_and_fits_native_budget (test_gemini.GeminiTests.test_reselection_preserves_protected_and_fits_native_budget) ... ok
+test_compatible_roundtrip_sends_only_prepared_context (test_llm.LLMTests.test_compatible_roundtrip_sends_only_prepared_context) ... ok
+test_environment_configuration_does_not_leak_keys (test_llm.LLMTests.test_environment_configuration_does_not_leak_keys) ... ok
+test_failed_openai_response (test_llm.LLMTests.test_failed_openai_response) ... ok
+test_http_error_does_not_echo_provider_body_or_api_key (test_llm.LLMTests.test_http_error_does_not_echo_provider_body_or_api_key) ... ok
+test_invalid_json_and_response_shapes (test_llm.LLMTests.test_invalid_json_and_response_shapes) ... ok
+test_missing_model_and_invalid_configuration (test_llm.LLMTests.test_missing_model_and_invalid_configuration) ... ok
+test_ollama_roundtrip (test_llm.LLMTests.test_ollama_roundtrip) ... ok
+test_openai_responses_roundtrip (test_llm.LLMTests.test_openai_responses_roundtrip) ... ok
+test_timeout_and_connection_failure (test_llm.LLMTests.test_timeout_and_connection_failure) ... ok
+test_truncated_responses_are_reported (test_llm.LLMTests.test_truncated_responses_are_reported) ... ok
+test_distant_configuration_survives_small_budget (test_selection.SelectionTests.test_distant_configuration_survives_small_budget) ... ok
+test_level_words_in_message_are_not_events (test_selection.SelectionTests.test_level_words_in_message_are_not_events) ... ok
+test_metric_spike_and_nonfinite_keep_original_values (test_selection.SelectionTests.test_metric_spike_and_nonfinite_keep_original_values) ... ok
+test_metric_streams_and_nonfinite_values (test_selection.SelectionTests.test_metric_streams_and_nonfinite_values) ... ok
+test_three_way_budgets_and_known_evidence (test_selection.SelectionTests.test_three_way_budgets_and_known_evidence) ... ok
+test_file_credentials_and_precedence_without_environment_mutation (test_settings.SettingsTests.test_file_credentials_and_precedence_without_environment_mutation) ... ok
+test_invalid_line_does_not_echo_secret (test_settings.SettingsTests.test_invalid_line_does_not_echo_secret) ... ok
+
+----------------------------------------------------------------------
+Ran 47 tests in 5.787s
+
+OK

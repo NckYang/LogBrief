@@ -1,0 +1,2 @@
+# Optional report export tools; separate from the application dependencies.
+python-docx==1.2.0
